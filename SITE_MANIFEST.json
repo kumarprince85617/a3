@@ -1,0 +1,203 @@
+{
+  "domain": "syntaxharbor",
+  "company_name": "Syntax Harbor Institute LLC",
+  "brand_name": "SYNTAX HARBOR",
+  "institutional_address": "1999 Avenue of the Stars, Suite 2800, Los Angeles, CA 90067, United States",
+  "institutional_phone": "+1-877-617-8778",
+  "google_analytics_id": "G-0LY0HY7L01",
+  "design_concept": "Cybernetic Academic Monograph & High-Precision Syntax Matrix",
+  "archetype_id": "cybernetic_academic",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "syntaxharbor_asset_1.jpg",
+      "size_kb": 183.29,
+      "md5": "6088c74760ea77737aa56d534d440ad5",
+      "description": "Academic mathematics blackboard equations showing formal syntax derivations",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "syntaxharbor_asset_2.jpg",
+      "size_kb": 192.71,
+      "md5": "6f17ce9a1e8610468f2a41672c3550e1",
+      "description": "Academic classical manuscript archive containing historical grammar treatises",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "syntaxharbor_asset_3.jpg",
+      "size_kb": 206.16,
+      "md5": "f85f2d7bcd39e6adcdb06ce01b29ac68",
+      "description": "Academic cognitive study notes and detailed analytical language diagrams",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "syntaxharbor_asset_4.jpg",
+      "size_kb": 54.53,
+      "md5": "7c045b90d42c8b89c1d52f0df80eec73",
+      "description": "Academic fountain pen resting on handwritten mathematical logic manuscript",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "syntaxharbor_asset_5.jpg",
+      "size_kb": 111.53,
+      "md5": "69e4585fed2478ad54ca5fd67bf92864",
+      "description": "Academic scholarly books archive displaying reference volumes on linguistics",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "syntaxharbor_asset_6.jpg",
+      "size_kb": 150.91,
+      "md5": "4a1f55e9933ff90d79398bde03f70e29",
+      "description": "Academic peer review collaboration session with researchers analyzing grammar data",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "syntaxharbor_asset_7.jpg",
+      "size_kb": 118.4,
+      "md5": "b0e63647488e5e7acd9d14091d6e268a",
+      "description": "Academic digital research analytics displaying syntax performance charts",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "syntaxharbor_asset_8.jpg",
+      "size_kb": 176.68,
+      "md5": "5385ed997a07405bcb73223bb033e1dd",
+      "description": "Academic research science laboratory bench with measurement instruments",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "syntaxharbor_asset_9.jpg",
+      "size_kb": 184.27,
+      "md5": "c3a7c3aa8355396eb6e68e447f69dce2",
+      "description": "Computational lab coding on terminal monitors analyzing language structures",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "syntaxharbor_asset_10.jpg",
+      "size_kb": 203.45,
+      "md5": "a01d5ac8de1eea576d98e9f50783da36",
+      "description": "Innovation tech lab with experimental computational devices",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "syntaxharbor_asset_11.jpg",
+      "size_kb": 155.03,
+      "md5": "85a2497a8d975603cee6eaa7b7dbe4b4",
+      "description": "Pedagogy collaborative learning among graduate research scholars",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "syntaxharbor_asset_12.jpg",
+      "size_kb": 125.06,
+      "md5": "8a75298c0b05036d28e2ee91edfa6cc0",
+      "description": "Program STEM research apparatus measuring linguistic processing speeds",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "syntaxharbor_asset_13.jpg",
+      "size_kb": 301.33,
+      "md5": "102ccd10ad687fed3411f395bf4bbc6f",
+      "description": "Anthropology ancient papyrus manuscript illustrating classical linguistic traditions",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "syntaxharbor_asset_14.jpg",
+      "size_kb": 199.33,
+      "md5": "af0579e58b0abb078bf04d6473d1314a",
+      "description": "Anthropology field notebook with magnifying glass examining textual data",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "syntaxharbor_asset_15.jpg",
+      "size_kb": 143.95,
+      "md5": "1055a011bc1bdba7f22c56b826eef52e",
+      "description": "Chemistry laboratory glassware used in experimental science research",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "syntaxharbor_asset_16.jpg",
+      "size_kb": 112.35,
+      "md5": "c5bb4ded8af1a74fc146efcf7dbcaf67",
+      "description": "Student writing notes carefully during advanced mathematical linguistics lecture",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "syntaxharbor_asset_17.jpg",
+      "size_kb": 90.96,
+      "md5": "30a76b497ec49347e7906cae13c87d29",
+      "description": "Library bookshelves filled with academic monographs and dictionaries",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "syntaxharbor_asset_18.jpg",
+      "size_kb": 217.8,
+      "md5": "60e9dc912f2108504180c9c4f354cf6f",
+      "description": "Tutoring chalkboard filled with algebraic grammar equations",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "syntaxharbor_asset_19.jpg",
+      "size_kb": 111.86,
+      "md5": "080f802b37ef5c575c072da88c878236",
+      "description": "Study desk with notebooks and stationery for academic research planning",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "syntaxharbor_asset_20.jpg",
+      "size_kb": 138.03,
+      "md5": "033c2ea3d82e4329aab2d508bb14a7d8",
+      "description": "Row of reference books on formal linguistics and computer science",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ]
+}
